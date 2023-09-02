@@ -3,6 +3,16 @@
     font-family: 'Work Sans', sans-serif;
 }
 
+.btn-primary{
+    border-radius: 8px;
+background: #FF900E;
+border: none;
+padding: 20px;
+font-size: 20px;
+color: white;
+font-weight: bold;
+
+}
 /* header style  */
 
 header {
@@ -41,4 +51,32 @@ nav li>a {
 
     font-weight: 500;
 
+}
+
+.banner-content {
+    width: 800px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+.banner-title {
+    color: #131313;
+    text-align: center;
+    font-size: 64px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.banner-des {
+    color: #727272;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.banner img{
+    width: 100%;
+    margin-top: 20px;
 }
